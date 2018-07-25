@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaPontuacaoEntrega", "SistemaPontuacaoEntrega\SistemaPontuacaoEntrega.csproj", "{6ABD9C38-9CA6-45A0-A8F8-F3ADD8068441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "DatabaseAccess\DatabaseAccess.csproj", "{16EE0C89-B825-4FD9-BE7D-A9FD3C8F4798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABD9C38-9CA6-45A0-A8F8-F3ADD8068441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABD9C38-9CA6-45A0-A8F8-F3ADD8068441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABD9C38-9CA6-45A0-A8F8-F3ADD8068441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABD9C38-9CA6-45A0-A8F8-F3ADD8068441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16EE0C89-B825-4FD9-BE7D-A9FD3C8F4798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EE0C89-B825-4FD9-BE7D-A9FD3C8F4798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EE0C89-B825-4FD9-BE7D-A9FD3C8F4798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EE0C89-B825-4FD9-BE7D-A9FD3C8F4798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1EE5533-2372-42FA-8262-5EE96D3E232A}
+	EndGlobalSection
+EndGlobal

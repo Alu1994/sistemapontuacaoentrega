@@ -1,0 +1,7 @@
+C:\Users\caval\Documents\Visual Studio 2017\Projects\SistemaPontuacaoEntrega\DatabaseAccess\bin\Debug\DatabaseAccess.dll.config
+C:\Users\caval\Documents\Visual Studio 2017\Projects\SistemaPontuacaoEntrega\DatabaseAccess\bin\Debug\DatabaseAccess.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\SistemaPontuacaoEntrega\DatabaseAccess\bin\Debug\DatabaseAccess.pdb
+C:\Users\caval\Documents\Visual Studio 2017\Projects\SistemaPontuacaoEntrega\DatabaseAccess\obj\Debug\DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\SistemaPontuacaoEntrega\DatabaseAccess\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\SistemaPontuacaoEntrega\DatabaseAccess\obj\Debug\DatabaseAccess.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\SistemaPontuacaoEntrega\DatabaseAccess\obj\Debug\DatabaseAccess.pdb
